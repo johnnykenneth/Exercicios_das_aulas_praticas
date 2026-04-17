@@ -8,8 +8,6 @@ Repositório com exercícios desenvolvidos durante as aulas práticas de program
 
 ## 📂 Estrutura do projeto
 
-## 📂 Estrutura do projeto
-
 * [Aula prática 01](https://github.com/johnnykenneth/Exercicios_das_aulas_praticas/tree/main/Aula%20prática%2001)
 * [Aula prática 02](https://github.com/johnnykenneth/Exercicios_das_aulas_praticas/tree/main/Aula%20prática%2002)
 * [Aula prática 03](https://github.com/johnnykenneth/Exercicios_das_aulas_praticas/tree/main/Aula%20prática%2003)
