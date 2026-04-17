@@ -1,10 +1,15 @@
 # 📚 Exercícios das Aulas Práticas
 
-Repositório com exercícios desenvolvidos durante as aulas práticas de programação.
+📌 Repositório dedicado aos exercícios desenvolvidos durante as aulas práticas de programação em Java.
+Este projeto faz parte do meu processo de aprendizado e evolução na área de desenvolvimento.
+
+---
 
 ## 🚀 Tecnologias utilizadas
 
-* Java
+* ☕ Java
+
+---
 
 ## 📂 Estrutura do projeto
 
@@ -13,6 +18,7 @@ Repositório com exercícios desenvolvidos durante as aulas práticas de program
 * [Aula prática 03](https://github.com/johnnykenneth/Exercicios_das_aulas_praticas/tree/main/Aula%20prática%2003)
 * [Aula prática 04](https://github.com/johnnykenneth/Exercicios_das_aulas_praticas/tree/main/Aula%20prática%2004)
 
+---
 
 ## 🧠 Conteúdos abordados
 
@@ -21,20 +27,42 @@ Repositório com exercícios desenvolvidos durante as aulas práticas de program
 * Arrays
 * Entrada e saída de dados
 
-## ▶️ Como executar
+---
 
-1. Compile o arquivo:
+## ▶️ Como executar os arquivos
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/johnnykenneth/Exercicios_das_aulas_praticas.git
+   ```
+
+2. Acesse a pasta desejada:
+
+   ```bash
+   cd "Aula prática 01"
+   ```
+
+3. Compile o arquivo:
 
    ```bash
    javac NomeDoArquivo.java
    ```
-2. Execute:
+
+4. Execute:
 
    ```bash
    java NomeDoArquivo
    ```
 
+---
+
+## 🎯 Objetivo
+
+Praticar e reforçar conceitos fundamentais de programação, desenvolvendo a lógica e a resolução de problemas.
+
+---
+
 ## ✍️ Autor
 
 * Johnny Kenneth
-
