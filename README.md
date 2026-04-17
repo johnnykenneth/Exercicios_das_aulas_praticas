@@ -1,4 +1,4 @@
-# 📚 Exercícios das Aulas Práticas ---
+# 📚 Exercícios das Aulas Práticas 
 
 📌 Repositório dedicado aos exercícios desenvolvidos durante as aulas práticas de programação em Java.
 Este projeto faz parte do meu processo de aprendizado e evolução na área de desenvolvimento.
